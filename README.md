@@ -1,2 +1,2 @@
-# CTDA
-Cell Type Domain Analysis(CTDA)
+# Spadom
+Spatial Domain analysis(Spadom)
